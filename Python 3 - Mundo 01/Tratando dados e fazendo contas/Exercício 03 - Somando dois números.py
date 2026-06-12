@@ -1,5 +1,7 @@
 """
-Atribui valor int a duas variaveis e busca mostrar a soma entre elas.
+Enunciado exercício 03 - Somnando dois números:
+
+Crie um programa que leia dois números e mostre a soma entre eles.
 """
 
 numero_01 = int(input('Digite um valor: '))

@@ -1,5 +1,7 @@
 """
-Atribuir valor a uma variavel e utiliza-la para expressar uma mensagem de boas-vindas.
+Enunciado do exercício 02 - Respondendo ao usuário:
+
+Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 """
 
 nome = input('Digite seu nome: ')

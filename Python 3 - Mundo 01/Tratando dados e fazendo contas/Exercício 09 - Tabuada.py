@@ -1,5 +1,7 @@
 """
-Atividade focada em receber e mostrar sua tabuada até 10
+Enuciado exercício 09 - Tabuada:
+
+Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
 """
 
 numero =  int(input('Digite um numero para ver sua tabuada: '))

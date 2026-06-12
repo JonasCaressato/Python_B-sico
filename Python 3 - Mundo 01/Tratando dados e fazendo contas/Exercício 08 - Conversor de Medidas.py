@@ -1,5 +1,7 @@
 """
-Conversor de metros outras medidas
+Enuciado do exercício 08 - Conversor de Medidas:
+
+Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 """
 metro = int(input('Uma distância em metros: '))
 

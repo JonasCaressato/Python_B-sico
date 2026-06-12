@@ -1,5 +1,7 @@
 """
-O código recebe duas notas e calcula a média entre ambas
+Enunciado do exercício 07 - Média aritmética:
+
+Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 """
 
 nota_01 = float(input('Primeira nota: '))

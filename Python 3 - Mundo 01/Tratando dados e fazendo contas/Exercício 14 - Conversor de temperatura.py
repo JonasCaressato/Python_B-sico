@@ -1,5 +1,7 @@
 """
-Conversor de graus °C em graus °F
+Enunciado do exercício 14 - Conversor de temperatura:
+
+Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
 """
 
 temperatura = float(input("Digite sua temperatura em °C: "))

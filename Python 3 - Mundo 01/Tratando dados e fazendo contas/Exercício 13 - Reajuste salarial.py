@@ -1,5 +1,7 @@
 """
-Calcula qual será o novo salario de um funcionario após ganhar um aumento de 15%
+Enunciado do exercício 13 - Reajuste salarial:
+
+Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
 """
 
 salario = float(input('Qual o salario do funcionario?: $'))

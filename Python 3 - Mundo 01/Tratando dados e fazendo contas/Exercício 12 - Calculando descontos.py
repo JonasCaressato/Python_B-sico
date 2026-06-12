@@ -1,5 +1,7 @@
 """
-calcula desconto de 5% no valor de uma compra
+Enunciado do exercício 12 - Calculando descontos:
+
+Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
 """
 
 valor = float(input('Digite o Preço do(s) produto(s): $'))

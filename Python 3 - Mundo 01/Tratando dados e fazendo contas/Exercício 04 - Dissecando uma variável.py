@@ -1,5 +1,8 @@
 """
-O código procura dissecar cada parte de uma variável que possui valor agregado através de um simples imput
+Enuciado do exercício 04 - Dissecando uma variável:
+
+Faça um programa que leia algo pelo teclado,
+e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 """
 
 variavel = input('Digite Algo: ')

@@ -1,5 +1,7 @@
 """
-Recebe um valor int e nos mostra o Dobro, Triplo e Raiz Quadrada
+Enucniado do exercício 06 - Dobro, Triple, Raiz:
+
+Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
 """
 
 
