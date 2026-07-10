@@ -1,7 +1,8 @@
 """
 Enunciado Exercício 43 – Índice de Massa Corporal
 
-Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu Índice de Massa Corporal (IMC) e mostre seu status, de acordo com a tabela abaixo:
+Desenvolva uma lógica que leia o peso e a altura de uma pessoa,
+calcule o seu Índice de Massa Corporal (IMC) e mostre o seu status, conforme a tabela abaixo:
 
 – IMC abaixo de 18,5: Abaixo do Peso
 
@@ -13,3 +14,18 @@ Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu Ín
 
 – Acima de 40: Obesidade Mórbida
 """
+
+peso = float(input('Digite o seu peso: '))
+altura = float(input('Digite sua altura: '))
+imc = peso / (altura ** 2)
+
+if imc < 18.5:
+    print('Abaixo do peso')
+elif 18.5 <= imc <= 25:
+    print('Peso Ideal')
+elif 25 < imc <= 30:
+    print('Sobrepeso')
+elif 30 < imc <= 40:
+    print('Obesidade')
+elif imc > 40:
+    print('Obesidade Mórbida')
