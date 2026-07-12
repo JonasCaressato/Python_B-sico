@@ -1,5 +1,5 @@
 """
-Enunciado do exercício 11 - Pintando parede:
+Enunciado do exercício 11. Funções - Pintando parede:
 
 Faça um programa que leia a largura e a altura de uma parede em metros,
 calcule a sua área e a quantidade de tinta necessária para pintá-la,
