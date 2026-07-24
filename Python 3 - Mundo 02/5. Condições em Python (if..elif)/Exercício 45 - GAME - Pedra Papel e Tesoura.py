@@ -32,22 +32,22 @@ elif player == 2:
 
     if bot == 1:
         print('VOCÊ VENCEU')
-        print('Você escolheu papel e o bot escolheu pedra')
+        print('Você escolheu papel e o numero_aleatorio escolheu pedra')
     elif bot == 2:
         print('VOCÊS EMPATARAM')
         print('ambos escolheram papel')
     elif bot == 3:
         print('VOCÊ PERDEU')
-        print('você escolheu papel e o bot escolheu tesoura')
+        print('você escolheu papel e o numero_aleatorio escolheu tesoura')
 
 elif player == 3:
 
     if bot == 1:
         print('VOCÊ PERDEU')
-        print('você escolheu tesoura e o bot escolheu pedra')
+        print('você escolheu tesoura e o numero_aleatorio escolheu pedra')
     elif bot == 2:
         print('VOCÊ VENCEU')
-        print('você escolheu tesoura e o bot escolheu papel')
+        print('você escolheu tesoura e o numero_aleatorio escolheu papel')
     elif bot == 3:
         print('VOCÊS EMPATARAM')
         print('ambos escolheram papel')
