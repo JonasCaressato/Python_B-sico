@@ -22,7 +22,7 @@ palavras = (
     'sofa',
     'magico',
     'xicara',
-    'numero',
+    'valor',
     'caminhao',
     'orgao',
 )
